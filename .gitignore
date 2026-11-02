@@ -1,0 +1,8 @@
+__pycache__/
+TuberculoseIA/donnée_csv/
+TuberculoseIA/donnees_gxx/
+*.gxx
+*.csv
+*.pt
+*.pth
+.streamlit/secrets.toml
