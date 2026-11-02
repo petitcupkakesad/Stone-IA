@@ -3,6 +3,6 @@ TuberculoseIA/donnée_csv/
 TuberculoseIA/donnees_gxx/
 *.gxx
 *.csv
-*.pt
-*.pth
+# *.pt
+# *.pth
 .streamlit/secrets.toml
